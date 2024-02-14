@@ -1,2 +1,6 @@
 this is 123 file
+<<<<<<< HEAD
 State Bank of pakistan 
+=======
+Editing 1 2 3 4  5 
+>>>>>>> 95799fde4e4f84df5aa57f6d7253cf78cca202b7
