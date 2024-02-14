@@ -1,6 +1,4 @@
 2nd floor 
-<<<<<<< HEAD
 State Bank of pakistan 
-=======
 System Editing 
->>>>>>> 95799fde4e4f84df5aa57f6d7253cf78cca202b7
+Pakistan Telecommunication corportaion
