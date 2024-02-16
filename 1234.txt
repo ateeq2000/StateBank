@@ -6,3 +6,4 @@ Pakistan Telecommunication corportaion
 ========================================
 # DevOps Training 
 -  Git /GitHub
+System activiation code send on mobile
